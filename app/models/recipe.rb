@@ -1,6 +1,6 @@
 
 
-class Recipes
+class Recipe
   include HTTParty
   ENV["FOOD2FORK_KEY"] = "4bb26e2e04c407f9b9811117bf7ad9e9"
 
